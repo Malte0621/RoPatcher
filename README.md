@@ -1,11 +1,11 @@
 # RoPatcher
 A utility to access internal roblox studio. A version of roblox studio that gives access to normally non-accessable features. Made for testing purposes. [Should not be used for anything else.]
 
-**VirusTotal Scan** : RoPatcher-Public.exe (Launcher)
+**VirusTotal Scan** : RoPatcher.exe (Launcher)
 
-*- Adding after first release -*
+https://www.virustotal.com/gui/file/e53e21d0176ce0b6399965dfe9495b6b9e9dc4cb9618f099d7f438d078c5b656?nocache=1
 
-[Has false positives due to pyinstaller.]
+[Has false positives due to the fact it was converted from python and the fact the code protected.]
 
 **TOS:**
 * The program shall only be used for testing purposes.
@@ -17,5 +17,6 @@ A utility to access internal roblox studio. A version of roblox studio that give
 
 (A internet connection is required for this program to run.)
 
+Download directly from here: https://github.com/Malte0621/RoPatcher/releases/download/v0.0.1/RoPatcher.zip
 
 {I will bring this project down at any time if requested by roblox.}
