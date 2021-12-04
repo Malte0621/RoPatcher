@@ -3,7 +3,7 @@ A utility to access internal roblox studio. A version of roblox studio that give
 
 **VirusTotal Scan** : RoPatcher.exe (Launcher)
 
-https://www.virustotal.com/gui/file/e53e21d0176ce0b6399965dfe9495b6b9e9dc4cb9618f099d7f438d078c5b656?nocache=1
+https://www.virustotal.com/gui/file/1b4cb328f4efc08e01ff92a7235adfe39e2001bfc481a6dff7bf718753b10c80
 
 [Has false positives due to the fact it was converted from python and the fact the code protected.]
 
