@@ -2,7 +2,7 @@
 A utility to access internal roblox studio. A version of roblox studio that gives access to normally non-accessable features. Made for testing purposes. [Should not be used for anything else.]
 
 **VirusTotal Scan** : RoPatcher-Public.exe (Launcher)
-https://www.virustotal.com/gui/file/301f379d1d314561bf6013c7087258a7c2470267c04b4055d02120ca237b6100/detection
+*- Adding after first release -*
 
 [Has false positives due to pyinstaller.]
 
